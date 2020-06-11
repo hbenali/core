@@ -32,7 +32,7 @@
 
    <groupId>org.exoplatform.core</groupId>
    <artifactId>core-parent</artifactId>
-   <version>5.3.3</version>
+   <version>5.3.3-patched</version>
    <packaging>pom</packaging>
 
    <name>eXo PLF:: Core</name>
